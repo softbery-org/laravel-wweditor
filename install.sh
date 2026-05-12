@@ -356,7 +356,7 @@ verify_installation() {
     fi
     
     # Check if package is in composer.json
-    if grep -q "softbery-org/laravel-wweditor" composer.json; then
+    if grep -q "softbery/laravel-wweditor" composer.json; then
         print_status "✓ Package added to composer.json"
     else
         print_error "✗ Package not in composer.json"

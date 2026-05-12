@@ -7,7 +7,7 @@ Zaawansowany edytor treści dla Laravela, podobny do CKEditor, z pełną integra
 ### 1. Instalacja przez Composer
 
 ```bash
-composer require softbery/laravel-wweditor
+composer require softbery-org/laravel-wweditor
 ```
 
 ### 2. Publikacja zasobów
@@ -280,5 +280,5 @@ MIT License - Możesz używać tego pakietu w projektach komercyjnych i osobisty
 
 ## Wsparcie
 
-- GitHub Issues: https://github.com/softbery/laravel-wweditor/issues
-- Dokumentacja: https://github.com/softbery/laravel-wweditor/wiki
+- GitHub Issues: https://github.com/softbery-org/laravel-wweditor/issues
+- Dokumentacja: https://github.com/softbery-org/laravel-wweditor/wiki

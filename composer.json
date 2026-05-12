@@ -1,5 +1,5 @@
 {
-    "name": "softbery-org/laravel-wweditor",
+    "name": "softbery/laravel-wweditor",
     "description": "Laravel package for wwEditor - Rich Text Content Editor",
     "type": "laravel-package",
     "keywords": ["laravel", "editor", "wysiwyg", "rich-text", "content"],
